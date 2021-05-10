@@ -1,0 +1,322 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"developer\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"tester\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"automation\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"software\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"hardware\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"telecom\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"facebook\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"twitter\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"linkdin\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "search Functionality",
+        "description": "",
+        "id": "to-test-the-search;search-functionality;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": ":navigates to the google page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": ": user enters  data \"whatsapp\"in search box",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "To test the search",
+    "description": "",
+    "id": "to-test-the-search",
+    "keyword": "Feature",
+    "uri": "Features/search.feature"
+  }
+]
